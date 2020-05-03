@@ -1,7 +1,3 @@
-def select_winner(passengers)
-  passengers[:suite_a]
-end
-
 def happy_birthday(birthday_kids)
   birthday_kids.each do |kid, age|
     puts "Happy Birthday #{kid}! You are now #{age} years old!"
