@@ -29,9 +29,3 @@ end
 
 
 
-
-
-# my_hash = {"key" => "value"}
-# my_hash["door"]="open"
-# # key: "value"
-# :key => "value"
